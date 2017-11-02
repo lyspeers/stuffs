@@ -1,0 +1,6 @@
+public class HighSchoolClass{
+    private Student[] students;
+
+    public String getValedictorian
+
+}
